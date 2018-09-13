@@ -1,4 +1,4 @@
-# razer-naga-hex-h2-colors
+# Razer Naga Hex v2 Color Corrector
 
 A script to add colors to your razer naga hex v2, in case you are using razergenie and having issues where it resets back to spectrum. 
 
